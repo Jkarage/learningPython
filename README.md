@@ -1,5 +1,4 @@
-# LearningPython
-PYTHON 101
+LearningPython
+Python 101 course
 This repository is for my solutions for python 101 tasks
-----Syntax task(syntax.py)
-----variable task(variable.py)
+
