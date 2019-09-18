@@ -1,0 +1,5 @@
+FROM python
+
+ADD functions.py /
+
+CMD ["python","./functions.py"]
