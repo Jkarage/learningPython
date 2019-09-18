@@ -1,0 +1,6 @@
+FROM python
+
+ADD variables.py /
+
+CMD ["python","./variables.py"]
+
