@@ -1,0 +1,5 @@
+FROM python
+
+ADD conditional_statements.py /
+
+CMD ["python","./conditional_statements.py"]
