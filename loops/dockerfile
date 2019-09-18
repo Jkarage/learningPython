@@ -1,0 +1,5 @@
+FROM python
+
+ADD loop.py /
+
+CMD ["python","./loop.py"]
