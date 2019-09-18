@@ -1,0 +1,5 @@
+FROM python
+
+ADD input_from_users.py /
+
+CMD ["python","./input_from_users.py"]
