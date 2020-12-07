@@ -4,10 +4,20 @@ Write a simple script to demonstrate your understanding of Variable,identifier a
 #In python variables are not declared,They are automatically created when given values
 
 
-bus_name = "DarExpress"           #creating a string with double quotation          
-passengers_name = 'Josep Karage'  #creating a string with a single quotation
-ticket_id = 765295                #creating an integer
-seat_no = 45                      #creating an integer also
-arrival_time = 06.45              #creating a float
+#creating a string with double quotation 
+bus_name = "DarExpress"
 
-print(seat_no)                    #displaying a variable seat_no    
+#creating a string with a single quotation
+passengers_name = 'Josep Karage'  
+
+#creating an integer
+ticket_id = 765295                
+
+#creating an integer 
+seat_no = 45                      
+
+#creating a float
+arrival_time = 06.45              
+
+#displaying a variable seat_no
+print(seat_no)                        
